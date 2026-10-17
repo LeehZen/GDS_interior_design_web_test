@@ -1,0 +1,6 @@
+{
+  "name": "Aura Studio — The Kensington Mews Residence",
+  "description": "Architectural monograph documenting the transformation of an 1882 carriage house into a light-filled sanctuary of Roman travertine and smoked oak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
